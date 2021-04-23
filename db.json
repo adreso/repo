@@ -1,21 +1,8 @@
-{"posts": [
-    {
-        "userId": 1,
-        "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "quia"
-    },
-    {
-        "userId": 1,
-        "id": 2,
-        "title": "qui est esse",
-        "body": "est"
-    },
-    {
-        "userId": 1,
-        "id": 3,
-        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-        "body": "et"
-    }
-]
-}
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profi
